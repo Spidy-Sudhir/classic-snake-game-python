@@ -17,10 +17,10 @@ A modern version of the classic Snake Game built using Python's Turtle graphics.
 ## 📷 Preview
 
 <p align="center">
-  <img src="screenshot_1.png" width="700">
+  <img src="Screenshot_1.png" width="700">
 </p>
 <p align="center">
-  <img src="screenshot_2.png" width="700">
+  <img src="Screenshot_2.png" width="700">
 </p>
 
 ## 🚀 Requirements
